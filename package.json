@@ -1,0 +1,16 @@
+{
+  "name": "finam-bot",
+  "description": "bot",
+  "license": "MIT",
+  "keywords": [
+    "bot"
+  ],
+  "version": "0.0.1",
+  "dependencies": {
+    "ffi": "^2.3.0",
+    "json2xml": "^0.1.3",
+    "mysql": "^2.18.1",
+    "write-file-utf8": "^1.2.1",
+    "xml2json": "^0.12.0"
+  }
+}
